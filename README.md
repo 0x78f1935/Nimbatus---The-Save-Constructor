@@ -45,7 +45,13 @@
 2. Try to edit your save file again
 3. Contact me on discord through the official Nimbatus discord server. \
     Issues can be post in the `modding_nimbatus` channel. You can ping me \
-    with the following tag `<@275280442884751360>`. 
+    with the following tag `<@275280442884751360>` or you can leave a issue on \
+    the github page.
+
+     `https://github.com/Annihilator708/Nimbatus---The-Save-Constructor/issues`
+
+    When posting a issue or when contacting me on discord please describe your \
+    problem as detailed as possible. Otherwise I cant help you.
 
 ```
 Note: I am not a game developer or have worked on the game or am affiliated with the game 
