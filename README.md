@@ -43,7 +43,7 @@
 1. If you experience any issues please remove the tmp folder from \
     `c:\Nimbatus - The Save Constructor\tmp`
     
-2. Make sure .NET Framework 4.7.1 is installed, This is made by microsoft. \
+2. Make sure .NET Framework 4.6.2 is installed, This is made by microsoft. \
     You can do this in 2 different ways. Make sure you are running windows 10 \
     and update your pc.
     
@@ -57,7 +57,7 @@
     with the following tag `<@275280442884751360>` or you can leave a issue on \
     the github page.
 
-     `https://github.com/Annihilator708/Nimbatus---The-Save-Constructor/issues`
+     `https://www.microsoft.com/en-us/download/details.aspx?id=53344`
 
     When posting a issue or when contacting me on discord please describe your \
     problem as detailed as possible. Otherwise I cant help you.
