@@ -42,8 +42,17 @@
 
 1. If you experience any issues please remove the tmp folder from \
     `c:\Nimbatus - The Save Constructor\tmp`
-2. Try to edit your save file again
-3. Contact me on discord through the official Nimbatus discord server. \
+    
+2. Make sure .NET Framework 4.7.1 is installed, This is made by microsoft. \
+    You can do this in 2 different ways. Make sure you are running windows 10 \
+    and update your pc.
+    
+    Or install it manual from the official microsoft website \
+    `https://www.microsoft.com/en-us/download/details.aspx?id=56116`
+    
+3. Try to edit your save file again
+
+4. Contact me on discord through the official Nimbatus discord server. \
     Issues can be post in the `modding_nimbatus` channel. You can ping me \
     with the following tag `<@275280442884751360>` or you can leave a issue on \
     the github page.
