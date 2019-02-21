@@ -48,7 +48,7 @@
     and update your pc.
     
     Or install it manual from the official microsoft website \
-    `https://www.microsoft.com/en-us/download/details.aspx?id=56116`
+    `https://www.microsoft.com/en-us/download/details.aspx?id=53344`
     
 3. Try to edit your save file again
 
@@ -56,8 +56,6 @@
     Issues can be post in the `modding_nimbatus` channel. You can ping me \
     with the following tag `<@275280442884751360>` or you can leave a issue on \
     the github page.
-
-     `https://www.microsoft.com/en-us/download/details.aspx?id=53344`
 
     When posting a issue or when contacting me on discord please describe your \
     problem as detailed as possible. Otherwise I cant help you.
