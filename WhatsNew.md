@@ -1,3 +1,12 @@
+### Alpha version 2.1.0.0
+	Added way to set inventory to 9999 for each stack.
+	Added way to enable/disable deploy costs
+	Added a way to enable/disable drone share
+	You can now edit the threat level multiplier
+	You can now unlock all parts
+	You are now able to edit the max damage a enemy does
+	You can now edit the max HP a enemey has.
+
 ### Alpha version 2.0.0.0
 	Updated asembly build
 	Hull value now can be changed
